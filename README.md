@@ -1,4 +1,4 @@
-SSA/ASS Subtitles highlight for vim. Coloreado de sintaxis Подсветка синтаксиса 字幕高亮 シンタックスハイライト 구문 강조
+Coloreado de sintaxis Подсветка синтаксиса 字幕高亮 シンタックスハイライト 구문 강조
 
 ![ass.vim](https://i.imgur.com/7pc2LDX.png)
 NOTE: I installed the [MonoKombat.vim theme](https://github.com/j16180339887/MonoKombat.vim)
